@@ -24,7 +24,7 @@ A curated list of awesome development resources in Bengali.
 #### অনলাইন বই/ব্লগ
 
 * [**হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা** by `ইকরাম মাহমুদ`](https://hukush-pakush.com/chap1)
-* [**কম্পিউটার প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://cpbook.subeen.com/2011/08/blog-post.html)
+* [**কম্পিউটার প্রোগ্রামিং** by `Tamim Shahriar Subeen`](https://web.archive.org/web/20230813075532/http://cpbook.subeen.com/2011/08/blog-post.html)
 
 #### বাংলা ডেভেলপার চিটশিট
 
@@ -75,7 +75,7 @@ A curated list of awesome development resources in Bengali.
 
 * অনলাইন বই (ফ্রি)
   * [**সহজ ভাষায় পাইথন ৩** by `Maksudur Rahman Maateen`](https://python.maateen.me/)
-  * [**পাইথন প্রোগ্রামিং** by `Tamim Shahriar Subeen`](http://pybook.subeen.com/)
+  * [**পাইথন প্রোগ্রামিং** by `Tamim Shahriar Subeen`](https://web.archive.org/web/20230607225917/https://pybook.subeen.com/)
   * [**পাইথন বাংলা বুক** by `Opensource community`](https://github.com/subrata6630/Python-Bangla-Book/blob/master/SUMMARY.md)
   * [**HUNT Python** by `Yeasir Arafat Ratul`](https://github.com/YeasirArafatRatul/Python-Programming-Language-3-Bangla-Book/blob/master/HUNT%20Python-Short%20Version.pdf)
 
@@ -101,7 +101,7 @@ A curated list of awesome development resources in Bengali.
 ## কিছু Awesome ডেভেলপমেন্ট রিসোর্স
 
 * [**Awesome List** - Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-* [**Awesome GitHub** - Curated list of awesome lists from Github](https://github.com/sindresorhus/awesomeproject-awesome.org/phillipadsmith/awesome-github)
+* [**Awesome GitHub** - Curated list of awesome lists from Github](https://github.com/phillipadsmith/awesome-github)
 * [**Awesome CS Courses**](https://project-awesome.org/prakhar1989/awesome-courses)
 * [**Awesome Python** - A curated list of awesome Python frameworks, libraries and resources](https://github.com/vinta/awesome-python)
   * [**Awesome Django** - A curated list of awesome things related to Django](https://github.com/wsvincent/awesome-django)
