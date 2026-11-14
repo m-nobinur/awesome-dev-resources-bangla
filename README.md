@@ -3,16 +3,16 @@
 A curated list of awesome development resources in Bengali.
 
 <p align="center">
-  <a href="https://m-nobinur.github.io/awesome-dev-reources-bangla/"><img
-    src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fm-nobinur.github.io%2Fawesome-dev-reources-bangla%2F"
+  <a href="https://m-nobinur.github.io/awesome-dev-resources-bangla/"><img
+    src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fm-nobinur.github.io%2Fawesome-dev-resources-bangla%2F"
     alt="Website"
   /></a>
-  <a href="https://github.com/m-nobinur/awesome-dev-reources-bangla/actions"><img
-    src="https://github.com/m-nobinur/awesome-dev-reources-bangla/actions/workflows/deploy.yml/badge.svg"
+  <a href="https://github.com/m-nobinur/awesome-dev-resources-bangla/actions"><img
+    src="https://github.com/m-nobinur/awesome-dev-resources-bangla/actions/workflows/deploy.yml/badge.svg"
     alt="Build"
   /></a>
-  <a href="https://github.com/m-nobinur/awesome-dev-reources-bangla/blob/main/LICENSE"><img
-    src="https://img.shields.io/github/license/m-nobinur/awesome-dev-reources-bangla"
+  <a href="https://github.com/m-nobinur/awesome-dev-resources-bangla/blob/main/LICENSE"><img
+    src="https://img.shields.io/github/license/m-nobinur/awesome-dev-resources-bangla"
     alt="LICENSE"
   /></a>
 </p>
